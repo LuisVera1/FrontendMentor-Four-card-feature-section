@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Live solution](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/LuisVera1/FrontendMentor-Four-card-feature-section)
+- Live Site URL: [Live solution](https://frontend-mentor-four-card-feature-section-three-omega.vercel.app/)
 
 ## My process
 
