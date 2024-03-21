@@ -20,7 +20,7 @@ function App() {
         <div className='main__first-section'>
           <div className="card card__border--cyan">
             <div>
-              <h4 className='card__title'>Supervisor</h4>
+              <h3 className='card__title'>Supervisor</h3>
               <p className='card__description'>Monitors activity to identify project roadblocks</p>
             </div>
             <img className='card__icon' src="/icon-supervisor.svg" alt="supervisor" />
@@ -32,7 +32,7 @@ function App() {
         <div className='main__second-section'>
           <div className="card card__border--red">
             <div>
-              <h4 className='card__title'>Team Builder</h4>
+              <h3 className='card__title'>Team Builder</h3>
               <p className='card__description'>Scans our talent network to create the optimal team for your project</p>
             </div>
             <img className='card__icon' src="/icon-team-builder.svg" alt="supervisor" />
@@ -41,7 +41,7 @@ function App() {
 
           <div className="card card__border--orange">
             <div>
-              <h4 className='card__title'>Karma</h4>
+              <h3 className='card__title'>Karma</h3>
               <p className='card__description'>Regularly evaluates our talent to ensure quality</p>
             </div>
             <img className='card__icon' src="/icon-karma.svg" alt="supervisor" />
@@ -53,7 +53,7 @@ function App() {
         <div className='main__third-section'>
           <div className="card card__border--blue">
             <div>
-              <h4 className='card__title'>Calculator</h4>
+              <h3 className='card__title'>Calculator</h3>
               <p className='card__description'>Uses data from past projects to provide better delivery estimates</p>
             </div>
             <img className='card__icon' src="/icon-calculator.svg" alt="supervisor" />
